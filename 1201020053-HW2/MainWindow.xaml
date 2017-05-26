@@ -16,7 +16,7 @@
     <Grid>
         <Grid x:Name="Grid_Header" Height="65" Margin="10,10,10,0" VerticalAlignment="Top">
             <TextBlock x:Name="tblockTitle" TextWrapping="Wrap" Text="Computer Organization Project" VerticalAlignment="Top" Foreground="#FF2EE7FF" Height="30" FontSize="20" HorizontalAlignment="Left" Width="225"/>
-            <TextBlock x:Name="tblockTitle_Copy" Margin="0,0,0,10" TextWrapping="Wrap" Text="Arithmetic/Geometric/Harmonic Mean Program" VerticalAlignment="Bottom" Foreground="#FF00979C" Height="20" FontSize="14" HorizontalAlignment="Left" Width="300"/>
+            <TextBlock x:Name="tblockTitle_Copy" Margin="0,0,0,10" TextWrapping="Wrap" Text="Base Converter" VerticalAlignment="Bottom" Foreground="#FF00979C" Height="20" FontSize="14" HorizontalAlignment="Left" Width="300"/>
             <Rectangle Height="5" VerticalAlignment="Bottom" Fill="#FF686886"/>
             <TextBlock x:Name="tblockTitle_Copy1" Margin="0,0,10,39" TextWrapping="Wrap" Text="Sami Berk Kaya" VerticalAlignment="Bottom" Foreground="#FF00979C" Height="20" FontSize="14" HorizontalAlignment="Right" Width="110" TextAlignment="Right"/>
 
